@@ -1,12 +1,14 @@
- <html>
-  <head>
-  	<title>Give Your Page a Good Title</title>
- -<link rel="stylesheet" type="text/css" href="mystyle.css">
-  </head>
-  <body>
-  	[Add new contents here.]
-p {
+<!doctype html>
+<html>
+<head>
+	<title>Give Your Page a Good Title</title>
+</head>
+<body>
+	[p {
     color: green;
     font-size: 20px;
     text-align: center;
-}
+}]
+</body>
+</html>
+
