@@ -1,9 +1,5 @@
-<!doctype html>
-<html>
-<head>
-	<title>Give Your Page a Good Title</title>
-</head>
-<body>
-	[Add new contents here.]
-</body>
-</html>
+p {
+    color: green;
+    font-size: 20px;
+    text-align: center;
+}
