@@ -1,6 +1,8 @@
 <!doctype html>
 <html>
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel=”stylesheet” media=”screen and (min-width:500px)” href=”main.css”>
 	<title>Give Your Page a Good Title</title>
 </head>
 <body>
@@ -8,6 +10,7 @@
     color: green;
     font-size: 20px;
     text-align: center;
+		
 }]
 </body>
 </html>
